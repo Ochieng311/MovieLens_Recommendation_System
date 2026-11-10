@@ -1,0 +1,611 @@
+userId,rec1,rec2,rec3,rec4,rec5
+1,Die Hard (1988),Terminator 2: Judgment Day (1991),"Godfather, The (1972)",Aliens (1986),"Godfather: Part II, The (1974)"
+2,Fight Club (1999),"Matrix, The (1999)",Pulp Fiction (1994),"Silence of the Lambs, The (1991)",Forrest Gump (1994)
+3,Escape from New York (1981),Aliens (1986),"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Alien (1979),"Terminator, The (1984)"
+4,"Usual Suspects, The (1995)",Shakespeare in Love (1998),"Godfather, The (1972)",Who Framed Roger Rabbit? (1988),Toy Story (1995)
+5,Forrest Gump (1994),"Silence of the Lambs, The (1991)",Jurassic Park (1993),Seven (a.k.a. Se7en) (1995),Crimson Tide (1995)
+6,Mission: Impossible (1996),Toy Story (1995),"Nightmare Before Christmas, The (1993)","Rock, The (1996)",Demolition Man (1993)
+7,"Matrix, The (1999)",Finding Nemo (2003),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Men in Black (a.k.a. MIB) (1997),"Bourne Identity, The (2002)"
+8,Aladdin (1992),Beauty and the Beast (1991),Crimson Tide (1995),Ace Ventura: Pet Detective (1994),Terminator 2: Judgment Day (1991)
+9,"Lord of the Rings: The Return of the King, The (2003)",Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),Indiana Jones and the Last Crusade (1989),Spider-Man (2002)
+10,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Harry Potter and the Prisoner of Azkaban (2004),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",How to Train Your Dragon (2010),"Monsters, Inc. (2001)"
+11,Pulp Fiction (1994),Dances with Wolves (1990),Schindler's List (1993),Seven (a.k.a. Se7en) (1995),Batman (1989)
+12,Pretty Woman (1990),Forrest Gump (1994),Bridget Jones's Diary (2001),Sleepless in Seattle (1993),Good Will Hunting (1997)
+13,Star Wars: Episode IV - A New Hope (1977),Fight Club (1999),Star Wars: Episode V - The Empire Strikes Back (1980),American Beauty (1999),Saving Private Ryan (1998)
+14,"Fugitive, The (1993)",Crimson Tide (1995),True Lies (1994),"Firm, The (1993)","Lion King, The (1994)"
+15,"Lord of the Rings: The Return of the King, The (2003)","Silence of the Lambs, The (1991)",Braveheart (1995),Inglourious Basterds (2009),Shutter Island (2010)
+16,"Godfather: Part II, The (1974)",Saving Private Ryan (1998),City of God (Cidade de Deus) (2002),"Clockwork Orange, A (1971)",Trainspotting (1996)
+17,Fargo (1996),Alien (1979),Monty Python and the Holy Grail (1975),Aliens (1986),Apocalypse Now (1979)
+18,Casino Royale (2006),Donnie Darko (2001),Aliens (1986),American Beauty (1999),Spider-Man 2 (2004)
+19,"Wizard of Oz, The (1939)",Jaws (1975),Beauty and the Beast (1991),Snow White and the Seven Dwarfs (1937),Casablanca (1942)
+20,Galaxy Quest (1999),Beetlejuice (1988),Monty Python and the Holy Grail (1975),"Aristocats, The (1970)",Finding Nemo (2003)
+21,WALL·E (2008),Finding Nemo (2003),Sherlock Holmes: A Game of Shadows (2011),Pirates of the Caribbean: Dead Man's Chest (2006),True Lies (1994)
+22,"Matrix, The (1999)",Pulp Fiction (1994),Inception (2010),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",American Beauty (1999)
+23,Taxi Driver (1976),"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Donnie Darko (2001),Seven (a.k.a. Se7en) (1995),Vertigo (1958)
+24,Fight Club (1999),Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Return of the King, The (2003)"
+25,"Shawshank Redemption, The (1994)",Fight Club (1999),Forrest Gump (1994),Pulp Fiction (1994),Star Wars: Episode V - The Empire Strikes Back (1980)
+26,"Shawshank Redemption, The (1994)",Braveheart (1995),Jurassic Park (1993),Terminator 2: Judgment Day (1991),Dances with Wolves (1990)
+27,Indiana Jones and the Last Crusade (1989),"Wizard of Oz, The (1939)",Aladdin (1992),Mary Poppins (1964),Monty Python and the Holy Grail (1975)
+28,Ocean's Eleven (2001),"Pan's Labyrinth (Laberinto del fauno, El) (2006)",City of God (Cidade de Deus) (2002),Starship Troopers (1997),Indiana Jones and the Last Crusade (1989)
+29,"Silence of the Lambs, The (1991)",Schindler's List (1993),"Godfather: Part II, The (1974)",Star Wars: Episode IV - A New Hope (1977),"Matrix, The (1999)"
+30,Fight Club (1999),Forrest Gump (1994),"Avengers, The (2012)","Silence of the Lambs, The (1991)","Godfather, The (1972)"
+31,Star Wars: Episode IV - A New Hope (1977),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Star Wars: Episode VI - Return of the Jedi (1983),Jurassic Park (1993),"Fugitive, The (1993)"
+32,Sense and Sensibility (1995),Star Wars: Episode VI - Return of the Jedi (1983),"Fugitive, The (1993)",Apollo 13 (1995),Braveheart (1995)
+33,Four Weddings and a Funeral (1994),Star Wars: Episode IV - A New Hope (1977),American Beauty (1999),Pretty Woman (1990),Star Wars: Episode V - The Empire Strikes Back (1980)
+34,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Star Wars: Episode VI - Return of the Jedi (1983),Star Wars: Episode V - The Empire Strikes Back (1980),Gladiator (2000),Finding Nemo (2003)
+35,"Shawshank Redemption, The (1994)","Fugitive, The (1993)",Pulp Fiction (1994),Crimson Tide (1995),Forrest Gump (1994)
+36,One Flew Over the Cuckoo's Nest (1975),"Godfather: Part II, The (1974)","Godfather, The (1972)","Usual Suspects, The (1995)",Reservoir Dogs (1992)
+37,Jurassic Park (1993),Braveheart (1995),Terminator 2: Judgment Day (1991),Seven (a.k.a. Se7en) (1995),Crimson Tide (1995)
+38,Clear and Present Danger (1994),Babe (1995),Terminator 2: Judgment Day (1991),Die Hard: With a Vengeance (1995),Seven (a.k.a. Se7en) (1995)
+39,Saving Private Ryan (1998),Jurassic Park (1993),Fight Club (1999),Braveheart (1995),"Shawshank Redemption, The (1994)"
+40,Forrest Gump (1994),Crimson Tide (1995),"Silence of the Lambs, The (1991)",Clear and Present Danger (1994),Interview with the Vampire: The Vampire Chronicles (1994)
+41,"Shawshank Redemption, The (1994)","Beautiful Mind, A (2001)",Schindler's List (1993),One Flew Over the Cuckoo's Nest (1975),Slumdog Millionaire (2008)
+42,American Beauty (1999),Speed (1994),Ghost (1990),Terminator 2: Judgment Day (1991),Stand by Me (1986)
+43,Jumanji (1995),"Silence of the Lambs, The (1991)",Home Alone (1990),"Nightmare Before Christmas, The (1993)",Maverick (1994)
+44,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Willy Wonka & the Chocolate Factory (1971),Fargo (1996),Star Trek: First Contact (1996),Star Wars: Episode V - The Empire Strikes Back (1980)
+45,Speed (1994),"Shawshank Redemption, The (1994)",Meet the Parents (2000),Babe (1995),Batman (1989)
+46,Apollo 13 (1995),Forrest Gump (1994),Jurassic Park (1993),Pulp Fiction (1994),Terminator 2: Judgment Day (1991)
+47,Schindler's List (1993),"Beautiful Mind, A (2001)",Good Will Hunting (1997),Finding Nemo (2003),American Beauty (1999)
+48,Star Wars: Episode VI - Return of the Jedi (1983),Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode IV - A New Hope (1977),Shrek (2001),Indiana Jones and the Last Crusade (1989)
+49,"Silence of the Lambs, The (1991)",Fight Club (1999),Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Return of the King, The (2003)"
+50,One Flew Over the Cuckoo's Nest (1975),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Star Wars: Episode IV - A New Hope (1977),Psycho (1960),American Beauty (1999)
+51,Eternal Sunshine of the Spotless Mind (2004),Forrest Gump (1994),Star Wars: Episode VI - Return of the Jedi (1983),"Princess Bride, The (1987)",Ferris Bueller's Day Off (1986)
+52,Iron Man (2008),"Lord of the Rings: The Fellowship of the Ring, The (2001)","Dark Knight Rises, The (2012)","Lord of the Rings: The Two Towers, The (2002)",Batman Begins (2005)
+53,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)","Usual Suspects, The (1995)",Glory (1989),"Road Warrior, The (Mad Max 2) (1981)",His Girl Friday (1940)
+54,True Lies (1994),Schindler's List (1993),"Lion King, The (1994)",Clear and Present Danger (1994),Die Hard: With a Vengeance (1995)
+55,American History X (1998),"Godfather: Part II, The (1974)","Usual Suspects, The (1995)",Fight Club (1999),Reservoir Dogs (1992)
+56,Apollo 13 (1995),Aladdin (1992),Dances with Wolves (1990),Speed (1994),Beauty and the Beast (1991)
+57,Jaws (1975),Stand by Me (1986),"Wizard of Oz, The (1939)",Psycho (1960),E.T. the Extra-Terrestrial (1982)
+58,"Silence of the Lambs, The (1991)",Cliffhanger (1993),Stargate (1994),Star Trek: Generations (1994),Babe (1995)
+59,American Beauty (1999),Alien (1979),One Flew Over the Cuckoo's Nest (1975),"Shawshank Redemption, The (1994)",Pulp Fiction (1994)
+60,"Silence of the Lambs, The (1991)",Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994),"Matrix, The (1999)"
+61,Pulp Fiction (1994),Fight Club (1999),"Matrix, The (1999)","Godfather, The (1972)",American History X (1998)
+62,"Bourne Ultimatum, The (2007)",Finding Nemo (2003),Memento (2000),District 9 (2009),Star Trek (2009)
+63,"Silence of the Lambs, The (1991)","Incredibles, The (2004)",Finding Nemo (2003),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Blade Runner (1982)
+64,There's Something About Mary (1998),Gladiator (2000),"Clockwork Orange, A (1971)","Little Mermaid, The (1989)","Beautiful Mind, A (2001)"
+65,"Matrix, The (1999)",Forrest Gump (1994),Pulp Fiction (1994),"Silence of the Lambs, The (1991)",Inglourious Basterds (2009)
+66,"Godfather, The (1972)",Indiana Jones and the Last Crusade (1989),Apocalypse Now (1979),Trainspotting (1996),Schindler's List (1993)
+67,"Silence of the Lambs, The (1991)",Star Wars: Episode IV - A New Hope (1977),"Dark Knight, The (2008)",Schindler's List (1993),Star Wars: Episode V - The Empire Strikes Back (1980)
+68,"Rock, The (1996)",Gangs of New York (2002),Big Fish (2003),Dead Poets Society (1989),"Da Vinci Code, The (2006)"
+69,Saving Private Ryan (1998),"Godfather, The (1972)",Schindler's List (1993),Fight Club (1999),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+70,"Silence of the Lambs, The (1991)",Pulp Fiction (1994),Saving Private Ryan (1998),"Matrix, The (1999)",Rain Man (1988)
+71,Heat (1995),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Eraser (1996),"Birdcage, The (1996)",Jurassic Park (1993)
+72,Jurassic Park (1993),Fight Club (1999),Saving Private Ryan (1998),Fargo (1996),Toy Story (1995)
+73,Forrest Gump (1994),Batman Begins (2005),Ratatouille (2007),Fight Club (1999),WALL·E (2008)
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Rear Window (1954),Reservoir Dogs (1992),"Usual Suspects, The (1995)",Eternal Sunshine of the Spotless Mind (2004)
+75,Star Wars: Episode VI - Return of the Jedi (1983),Back to the Future (1985),Saving Private Ryan (1998),Jurassic Park (1993),"Godfather, The (1972)"
+76,"Usual Suspects, The (1995)","Departed, The (2006)",American History X (1998),One Flew Over the Cuckoo's Nest (1975),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+77,Shrek (2001),"Monsters, Inc. (2001)",Finding Nemo (2003),Harry Potter and the Prisoner of Azkaban (2004),Fight Club (1999)
+78,Braveheart (1995),Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983),"Fugitive, The (1993)",Seven (a.k.a. Se7en) (1995)
+79,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Alien (1979),Die Hard (1988),Back to the Future (1985),Fargo (1996)
+80,American History X (1998),Sin City (2005),Inglourious Basterds (2009),Gladiator (2000),"Lord of the Rings: The Fellowship of the Ring, The (2001)"
+81,"Silence of the Lambs, The (1991)",Dances with Wolves (1990),Outbreak (1995),Clear and Present Danger (1994),"Firm, The (1993)"
+82,Speed (1994),"Terminator, The (1984)","Lord of the Rings: The Two Towers, The (2002)",Armageddon (1998),American Pie (1999)
+83,"Matrix, The (1999)",Schindler's List (1993),Fight Club (1999),"Silence of the Lambs, The (1991)",Eternal Sunshine of the Spotless Mind (2004)
+84,Toy Story (1995),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mission: Impossible (1996),Independence Day (a.k.a. ID4) (1996),Much Ado About Nothing (1993)
+85,Casablanca (1942),"Silence of the Lambs, The (1991)","Usual Suspects, The (1995)",North by Northwest (1959),"Shawshank Redemption, The (1994)"
+86,Pulp Fiction (1994),"Silence of the Lambs, The (1991)",Schindler's List (1993),Braveheart (1995),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+87,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Fargo (1996),"Princess Bride, The (1987)",Brazil (1985),Memento (2000)
+88,Fight Club (1999),"Matrix, The (1999)",Pulp Fiction (1994),American History X (1998),"Godfather, The (1972)"
+89,"Incredibles, The (2004)",Finding Nemo (2003),Despicable Me 2 (2013),Inside Out (2015),Spy (2015)
+90,Star Wars: Episode VI - Return of the Jedi (1983),Mission: Impossible (1996),Mr. Holland's Opus (1995),Heat (1995),Twister (1996)
+91,Full Metal Jacket (1987),"Big Lebowski, The (1998)",From Dusk Till Dawn (1996),Finding Nemo (2003),Chinatown (1974)
+92,Willy Wonka & the Chocolate Factory (1971),"Grand Day Out with Wallace and Gromit, A (1989)","Jungle Book, The (1967)",Labyrinth (1986),Toy Story 2 (1999)
+93,Terminator 2: Judgment Day (1991),"Fugitive, The (1993)",Independence Day (a.k.a. ID4) (1996),Pulp Fiction (1994),Speed (1994)
+94,Clear and Present Danger (1994),Beauty and the Beast (1991),"Firm, The (1993)",While You Were Sleeping (1995),Schindler's List (1993)
+95,"Lord of the Rings: The Fellowship of the Ring, The (2001)","Princess Bride, The (1987)","Lord of the Rings: The Return of the King, The (2003)","Godfather, The (1972)","Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)"
+96,Star Wars: Episode V - The Empire Strikes Back (1980),"Silence of the Lambs, The (1991)",Forrest Gump (1994),"Shawshank Redemption, The (1994)",Seven (a.k.a. Se7en) (1995)
+97,Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Two Towers, The (2002)",Star Wars: Episode V - The Empire Strikes Back (1980),"Lord of the Rings: The Return of the King, The (2003)",Fight Club (1999)
+98,Finding Nemo (2003),"Shawshank Redemption, The (1994)",Up (2009),"Matrix, The (1999)","Dark Knight, The (2008)"
+99,"Fugitive, The (1993)",Braveheart (1995),Forrest Gump (1994),Dances with Wolves (1990),"Firm, The (1993)"
+100,Apollo 13 (1995),Clueless (1995),Dave (1993),Mrs. Doubtfire (1993),Good Will Hunting (1997)
+101,"Matrix, The (1999)",American History X (1998),Saving Private Ryan (1998),"Big Lebowski, The (1998)",There's Something About Mary (1998)
+102,Braveheart (1995),Stargate (1994),Outbreak (1995),"Mask, The (1994)",Beauty and the Beast (1991)
+103,Monty Python and the Holy Grail (1975),Seven (a.k.a. Se7en) (1995),Trainspotting (1996),American Beauty (1999),Ocean's Eleven (2001)
+104,"Princess Bride, The (1987)",Toy Story (1995),Harry Potter and the Half-Blood Prince (2009),Mary Poppins (1964),"Sound of Music, The (1965)"
+105,"Big Lebowski, The (1998)",Monty Python and the Holy Grail (1975),"Hurt Locker, The (2008)",Vanilla Sky (2001),Mr. & Mrs. Smith (2005)
+106,Up (2009),Shrek (2001),"Dark Knight, The (2008)",WALL·E (2008),"Monsters, Inc. (2001)"
+107,Forrest Gump (1994),"Fugitive, The (1993)",Jurassic Park (1993),"Firm, The (1993)",Aladdin (1992)
+108,Shrek (2001),Memento (2000),Forrest Gump (1994),"Shawshank Redemption, The (1994)",American Beauty (1999)
+109,Sleepless in Seattle (1993),Stargate (1994),While You Were Sleeping (1995),Outbreak (1995),Cliffhanger (1993)
+110,"Shawshank Redemption, The (1994)","Usual Suspects, The (1995)","Godfather, The (1972)","Silence of the Lambs, The (1991)",Forrest Gump (1994)
+111,Easy A (2010),"Crazy, Stupid, Love. (2011)",(500) Days of Summer (2009),"Dictator, The (2012)",American Pie (1999)
+112,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),Terminator 2: Judgment Day (1991),Schindler's List (1993),"Fugitive, The (1993)"
+113,Schindler's List (1993),Some Like It Hot (1959),"Shawshank Redemption, The (1994)",It's a Wonderful Life (1946),Psycho (1960)
+114,"Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)",Fight Club (1999),"Matrix, The (1999)"
+115,Star Wars: Episode VI - Return of the Jedi (1983),Forrest Gump (1994),Toy Story (1995),Schindler's List (1993),Indiana Jones and the Last Crusade (1989)
+116,Braveheart (1995),Mission: Impossible (1996),Men in Black (a.k.a. MIB) (1997),"Matrix, The (1999)",True Lies (1994)
+117,Toy Story (1995),Waterworld (1995),Broken Arrow (1996),Leaving Las Vegas (1995),What's Eating Gilbert Grape (1993)
+118,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)","Usual Suspects, The (1995)","Matrix, The (1999)",Fight Club (1999)
+119,Interstellar (2014),Fight Club (1999),Iron Man (2008),Kill Bill: Vol. 1 (2003),Guardians of the Galaxy (2014)
+120,Star Wars: Episode V - The Empire Strikes Back (1980),Toy Story (1995),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Star Trek: First Contact (1996),Leaving Las Vegas (1995)
+121,"Silence of the Lambs, The (1991)",Jurassic Park (1993),Die Hard: With a Vengeance (1995),Aladdin (1992),Terminator 2: Judgment Day (1991)
+122,American Beauty (1999),Kill Bill: Vol. 1 (2003),Donnie Darko (2001),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Clockwork Orange, A (1971)"
+123,"Dark Knight, The (2008)",Forrest Gump (1994),Schindler's List (1993),"Godfather, The (1972)","Dark Knight Rises, The (2012)"
+124,Fight Club (1999),"Matrix, The (1999)",Schindler's List (1993),"Godfather, The (1972)",Seven (a.k.a. Se7en) (1995)
+125,The Imitation Game (2014),Guardians of the Galaxy (2014),Shutter Island (2010),"Monsters, Inc. (2001)","Prestige, The (2006)"
+126,GoldenEye (1995),Schindler's List (1993),Ghost (1990),Sleepless in Seattle (1993),Pretty Woman (1990)
+127,"Sting, The (1973)","Philadelphia Story, The (1940)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Monty Python and the Holy Grail (1975),High Noon (1952)
+128,"Godfather, The (1972)","Matrix, The (1999)",Star Wars: Episode VI - Return of the Jedi (1983),Schindler's List (1993),Forrest Gump (1994)
+129,Spider-Man (2002),"Incredibles, The (2004)",Finding Nemo (2003),Terminator 2: Judgment Day (1991),Men in Black (a.k.a. MIB) (1997)
+130,Forrest Gump (1994),"Fugitive, The (1993)",Jurassic Park (1993),"Silence of the Lambs, The (1991)",Terminator 2: Judgment Day (1991)
+131,Fight Club (1999),Schindler's List (1993),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Sixth Sense, The (1999)",Apocalypse Now (1979)
+132,Run Lola Run (Lola rennt) (1998),Catch Me If You Can (2002),"Sixth Sense, The (1999)",Pretty Woman (1990),Minority Report (2002)
+133,Die Hard: With a Vengeance (1995),Crimson Tide (1995),"Lion King, The (1994)",Beauty and the Beast (1991),Outbreak (1995)
+134,"Fugitive, The (1993)",Apollo 13 (1995),"Shawshank Redemption, The (1994)",Forrest Gump (1994),Jurassic Park (1993)
+135,Forrest Gump (1994),Back to the Future (1985),Ghostbusters (a.k.a. Ghost Busters) (1984),Blade Runner (1982),"Usual Suspects, The (1995)"
+136,Forrest Gump (1994),"Shawshank Redemption, The (1994)",Speed (1994),Jurassic Park (1993),Sleepless in Seattle (1993)
+137,American Beauty (1999),Goodfellas (1990),"Usual Suspects, The (1995)",Indiana Jones and the Last Crusade (1989),Groundhog Day (1993)
+138,Monty Python and the Holy Grail (1975),"Princess Bride, The (1987)",Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+139,Guardians of the Galaxy (2014),WALL·E (2008),V for Vendetta (2006),Sherlock Holmes (2009),Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+140,Taxi Driver (1976),"Princess Bride, The (1987)",Terminator 2: Judgment Day (1991),"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Quiz Show (1994)
+141,Inception (2010),"Beautiful Mind, A (2001)",American Beauty (1999),Eternal Sunshine of the Spotless Mind (2004),"Sixth Sense, The (1999)"
+142,"Shawshank Redemption, The (1994)",Braveheart (1995),"Firm, The (1993)",Quiz Show (1994),Interview with the Vampire: The Vampire Chronicles (1994)
+143,"Monsters, Inc. (2001)",Good Will Hunting (1997),"Shawshank Redemption, The (1994)",10 Things I Hate About You (1999),Toy Story (1995)
+144,"Shawshank Redemption, The (1994)",Beauty and the Beast (1991),"Fugitive, The (1993)","Mask, The (1994)","Usual Suspects, The (1995)"
+145,Forrest Gump (1994),"Fugitive, The (1993)","Silence of the Lambs, The (1991)",Jurassic Park (1993),Braveheart (1995)
+146,Pulp Fiction (1994),American History X (1998),"Shawshank Redemption, The (1994)","Usual Suspects, The (1995)",Toy Story (1995)
+147,Clerks (1994),Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Pulp Fiction (1994),Star Trek II: The Wrath of Khan (1982),"Silence of the Lambs, The (1991)"
+148,"Dark Knight, The (2008)",Iron Man (2008),"Incredibles, The (2004)",Interstellar (2014),Shrek (2001)
+149,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Matrix, The (1999)",Braveheart (1995),Batman (1989),"Silence of the Lambs, The (1991)"
+150,Twister (1996),Star Wars: Episode IV - A New Hope (1977),Toy Story (1995),Star Wars: Episode VI - Return of the Jedi (1983),Rumble in the Bronx (Hont faan kui) (1995)
+151,"Rock, The (1996)",Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Star Trek: First Contact (1996),Star Wars: Episode IV - A New Hope (1977),Executive Decision (1996)
+152,Forrest Gump (1994),Reservoir Dogs (1992),Inglourious Basterds (2009),Memento (2000),Saving Private Ryan (1998)
+153,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)","Sixth Sense, The (1999)",Inception (2010),Catch Me If You Can (2002)
+154,WALL·E (2008),"Dark Knight, The (2008)",The Martian (2015),Iron Man (2008),"Dark Knight Rises, The (2012)"
+155,"Matrix, The (1999)",Star Wars: Episode VI - Return of the Jedi (1983),Star Wars: Episode V - The Empire Strikes Back (1980),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Forrest Gump (1994)
+156,Vertigo (1958),"Princess Bride, The (1987)",Schindler's List (1993),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Stand by Me (1986)
+157,"Matrix, The (1999)","Shawshank Redemption, The (1994)","Godfather, The (1972)",American History X (1998),Saving Private Ryan (1998)
+158,"Boondock Saints, The (2000)","Godfather, The (1972)",Fight Club (1999),"Usual Suspects, The (1995)","Clockwork Orange, A (1971)"
+159,Schindler's List (1993),Pirates of the Caribbean: The Curse of the Black Pearl (2003),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","Incredibles, The (2004)","Silence of the Lambs, The (1991)"
+160,"Big Lebowski, The (1998)","Clockwork Orange, A (1971)",Reservoir Dogs (1992),L.A. Confidential (1997),One Flew Over the Cuckoo's Nest (1975)
+161,Aladdin (1992),Monty Python and the Holy Grail (1975),"Silence of the Lambs, The (1991)",Forrest Gump (1994),Wallace & Gromit: The Best of Aardman Animation (1996)
+162,Braveheart (1995),"Silence of the Lambs, The (1991)","Fugitive, The (1993)","Lion King, The (1994)",Jurassic Park (1993)
+163,"Sixth Sense, The (1999)",Saving Private Ryan (1998),"Matrix, The (1999)",American History X (1998),"Green Mile, The (1999)"
+164,Star Wars: Episode IV - A New Hope (1977),"Matrix, The (1999)",Alien (1979),Saving Private Ryan (1998),Back to the Future (1985)
+165,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Return of the King, The (2003)",Back to the Future (1985),Shrek (2001)
+166,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Terminator 2: Judgment Day (1991),Braveheart (1995),Monty Python and the Holy Grail (1975),"Dark Knight, The (2008)"
+167,"Matrix, The (1999)",Back to the Future (1985),Fight Club (1999),Memento (2000),Ghostbusters (a.k.a. Ghost Busters) (1984)
+168,Rear Window (1954),"Usual Suspects, The (1995)","Shawshank Redemption, The (1994)",Schindler's List (1993),"Silence of the Lambs, The (1991)"
+169,Legally Blonde (2001),Independence Day (a.k.a. ID4) (1996),Almost Famous (2000),"Bug's Life, A (1998)",Shakespeare in Love (1998)
+170,True Lies (1994),Clear and Present Danger (1994),Die Hard: With a Vengeance (1995),Terminator 2: Judgment Day (1991),Cliffhanger (1993)
+171,"Usual Suspects, The (1995)",Forrest Gump (1994),Terminator 2: Judgment Day (1991),Braveheart (1995),Heat (1995)
+172,"Matrix, The (1999)","Shawshank Redemption, The (1994)",Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994)
+173,"Shawshank Redemption, The (1994)","Fugitive, The (1993)",Dances with Wolves (1990),True Lies (1994),"Lion King, The (1994)"
+174,Braveheart (1995),Speed (1994),"Shawshank Redemption, The (1994)",Cliffhanger (1993),"Lion King, The (1994)"
+175,Guess Who's Coming to Dinner (1967),"Three Billboards Outside Ebbing, Missouri (2017)",Jules and Jim (Jules et Jim) (1961),Last Tango in Paris (Ultimo tango a Parigi) (1972),Cyrano de Bergerac (1990)
+176,Forrest Gump (1994),Jurassic Park (1993),"Lion King, The (1994)",Waterworld (1995),Beauty and the Beast (1991)
+177,My Big Fat Greek Wedding (2002),Memento (2000),"Sixth Sense, The (1999)",Spirited Away (Sen to Chihiro no kamikakushi) (2001),Dead Poets Society (1989)
+178,Apollo 13 (1995),Star Wars: Episode IV - A New Hope (1977),"Godfather, The (1972)",Star Wars: Episode V - The Empire Strikes Back (1980),"Sixth Sense, The (1999)"
+179,Aladdin (1992),GoldenEye (1995),Beauty and the Beast (1991),Ghost (1990),"Rock, The (1996)"
+180,Star Wars: Episode VI - Return of the Jedi (1983),"Godfather, The (1972)","Shawshank Redemption, The (1994)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Two Towers, The (2002)"
+181,Apollo 13 (1995),"Lion King, The (1994)",Cliffhanger (1993),"Shawshank Redemption, The (1994)",Outbreak (1995)
+182,"Rocky Horror Picture Show, The (1975)","South Park: Bigger, Longer and Uncut (1999)",Boys Don't Cry (1999),When Harry Met Sally... (1989),"Femme Nikita, La (Nikita) (1990)"
+183,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Star Wars: Episode IV - A New Hope (1977),Indiana Jones and the Last Crusade (1989),"Terminator, The (1984)","Matrix, The (1999)"
+184,Mad Max: Fury Road (2015),The Martian (2015),Logan (2017),Deadpool (2016),Up (2009)
+185,Forrest Gump (1994),Fight Club (1999),"Matrix, The (1999)","Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Shrek (2001)
+186,Back to the Future (1985),X-Men (2000),Saving Private Ryan (1998),Forrest Gump (1994),Airplane! (1980)
+187,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Apocalypse Now (1979),"Godfather, The (1972)",City of God (Cidade de Deus) (2002),Léon: The Professional (a.k.a. The Professional) (Léon) (1994)
+188,Some Like It Hot (1959),It's a Wonderful Life (1946),Casablanca (1942),Cool Hand Luke (1967),To Kill a Mockingbird (1962)
+189,Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),Saving Private Ryan (1998),Memento (2000),"Godfather, The (1972)"
+190,"Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Memento (2000),Forrest Gump (1994)
+191,"Silence of the Lambs, The (1991)",Forrest Gump (1994),Schindler's List (1993),"Fugitive, The (1993)",Dances with Wolves (1990)
+192,"Fugitive, The (1993)","Shawshank Redemption, The (1994)",Speed (1994),Crimson Tide (1995),Terminator 2: Judgment Day (1991)
+193,"Matrix, The (1999)",Fargo (1996),"Usual Suspects, The (1995)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)"
+194,Apocalypse Now (1979),Lawrence of Arabia (1962),Jaws (1975),Fargo (1996),Goodfellas (1990)
+195,"Silence of the Lambs, The (1991)",Fight Club (1999),"Godfather, The (1972)","Godfather: Part II, The (1974)",Forrest Gump (1994)
+196,"Shawshank Redemption, The (1994)",Forrest Gump (1994),Star Wars: Episode IV - A New Hope (1977),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Terminator 2: Judgment Day (1991)
+197,"Silence of the Lambs, The (1991)",Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode IV - A New Hope (1977),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Fight Club (1999)
+198,Schindler's List (1993),"Godfather, The (1972)",Amadeus (1984),Apocalypse Now (1979),Toy Story (1995)
+199,One Flew Over the Cuckoo's Nest (1975),"Godfather: Part II, The (1974)",Full Metal Jacket (1987),2001: A Space Odyssey (1968),"Graduate, The (1967)"
+200,American Pie (1999),Groundhog Day (1993),Dead Poets Society (1989),"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Big Fish (2003)
+201,"Matrix, The (1999)",Braveheart (1995),Groundhog Day (1993),"Fugitive, The (1993)",Aladdin (1992)
+202,Schindler's List (1993),Goodfellas (1990),Amadeus (1984),Full Metal Jacket (1987),Chinatown (1974)
+203,Fight Club (1999),Forrest Gump (1994),"Dark Knight, The (2008)",Star Wars: Episode IV - A New Hope (1977),"Silence of the Lambs, The (1991)"
+204,"Shawshank Redemption, The (1994)",Inception (2010),"Usual Suspects, The (1995)",Forrest Gump (1994),"Lord of the Rings: The Return of the King, The (2003)"
+205,"Matrix, The (1999)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)",Up (2009),"Dark Knight, The (2008)"
+206,Star Wars: Episode IV - A New Hope (1977),Heat (1995),"Time to Kill, A (1996)",Star Wars: Episode VI - Return of the Jedi (1983),Rumble in the Bronx (Hont faan kui) (1995)
+207,Fight Club (1999),"Matrix, The (1999)","Godfather, The (1972)","Sixth Sense, The (1999)","Clockwork Orange, A (1971)"
+208,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994),Pulp Fiction (1994),Schindler's List (1993)
+209,"Dark Knight, The (2008)",Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),Schindler's List (1993),Star Wars: Episode V - The Empire Strikes Back (1980)
+210,Up (2009),Harry Potter and the Prisoner of Azkaban (2004),"Incredibles, The (2004)",Inception (2010),X-Men (2000)
+211,"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)",American History X (1998),"Departed, The (2006)","Silence of the Lambs, The (1991)"
+212,Memento (2000),"Prestige, The (2006)",Shutter Island (2010),"Wolf of Wall Street, The (2013)",Inside Out (2015)
+213,"Matrix, The (1999)",Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode IV - A New Hope (1977),Gladiator (2000),Fight Club (1999)
+214,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Star Wars: Episode IV - A New Hope (1977),"Rock, The (1996)",Fargo (1996),Eraser (1996)
+215,"Matrix, The (1999)","Godfather, The (1972)",One Flew Over the Cuckoo's Nest (1975),American History X (1998),Monty Python and the Holy Grail (1975)
+216,Rear Window (1954),Shakespeare in Love (1998),"Sting, The (1973)",Cool Hand Luke (1967),Citizen Kane (1941)
+217,Aladdin (1992),Speed (1994),Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Dragonheart (1996),"Princess Bride, The (1987)"
+218,Blade Runner (1982),Casablanca (1942),Fargo (1996),Star Wars: Episode IV - A New Hope (1977),Monty Python and the Holy Grail (1975)
+219,"Big Lebowski, The (1998)",Braveheart (1995),Forrest Gump (1994),Ice Age (2002),Unbreakable (2000)
+220,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Gladiator (2000),Braveheart (1995),American Beauty (1999),"Silence of the Lambs, The (1991)"
+221,"Godfather: Part II, The (1974)",2001: A Space Odyssey (1968),Raging Bull (1980),Star Wars: Episode IV - A New Hope (1977),Life Is Beautiful (La Vita è bella) (1997)
+222,"Shawshank Redemption, The (1994)",One Flew Over the Cuckoo's Nest (1975),"Lord of the Rings: The Return of the King, The (2003)",Good Will Hunting (1997),American Beauty (1999)
+223,Forrest Gump (1994),Fight Club (1999),"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)",American Beauty (1999)
+224,"Shawshank Redemption, The (1994)",American Beauty (1999),Toy Story (1995),"Sixth Sense, The (1999)",Monty Python and the Holy Grail (1975)
+225,"Breakfast Club, The (1985)",Ferris Bueller's Day Off (1986),Star Wars: Episode VI - Return of the Jedi (1983),"Christmas Story, A (1983)",Groundhog Day (1993)
+226,"Truman Show, The (1998)",Memento (2000),Grosse Pointe Blank (1997),Jerry Maguire (1996),"Incredibles, The (2004)"
+227,"Usual Suspects, The (1995)","Lord of the Rings: The Fellowship of the Ring, The (2001)",American Beauty (1999),Memento (2000),"Lord of the Rings: The Two Towers, The (2002)"
+228,"Silence of the Lambs, The (1991)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Fight Club (1999),Pulp Fiction (1994),Star Wars: Episode VI - Return of the Jedi (1983)
+229,Crimson Tide (1995),Aladdin (1992),Beauty and the Beast (1991),Seven (a.k.a. Se7en) (1995),While You Were Sleeping (1995)
+230,Jurassic Park (1993),Shrek (2001),Forrest Gump (1994),Toy Story (1995),"Monsters, Inc. (2001)"
+231,"Shawshank Redemption, The (1994)",Fight Club (1999),Saving Private Ryan (1998),Braveheart (1995),Star Wars: Episode VI - Return of the Jedi (1983)
+232,"Silence of the Lambs, The (1991)",Slumdog Millionaire (2008),Babel (2006),American Beauty (1999),"Knight's Tale, A (2001)"
+233,Memento (2000),Good Will Hunting (1997),Gladiator (2000),Up (2009),Donnie Darko (2001)
+234,Beauty and the Beast (1991),"Nightmare Before Christmas, The (1993)","Mask, The (1994)",Independence Day (a.k.a. ID4) (1996),Terminator 2: Judgment Day (1991)
+235,Die Hard: With a Vengeance (1995),Ghost (1990),While You Were Sleeping (1995),Outbreak (1995),"Mask, The (1994)"
+236,Goodfellas (1990),Reservoir Dogs (1992),Fight Club (1999),"Princess Bride, The (1987)",Star Wars: Episode V - The Empire Strikes Back (1980)
+237,Fight Club (1999),Pulp Fiction (1994),"Godfather, The (1972)","Silence of the Lambs, The (1991)",Memento (2000)
+238,Schindler's List (1993),Butch Cassidy and the Sundance Kid (1969),"Boot, Das (Boat, The) (1981)",North by Northwest (1959),Taxi Driver (1976)
+239,Memento (2000),"Sixth Sense, The (1999)",Casino Royale (2006),Apollo 13 (1995),Speed (1994)
+240,Seven (a.k.a. Se7en) (1995),Pretty Woman (1990),"Silence of the Lambs, The (1991)",Ghost (1990),Home Alone (1990)
+241,Forrest Gump (1994),Inception (2010),"Dark Knight, The (2008)",Requiem for a Dream (2000),American History X (1998)
+242,Braveheart (1995),Forrest Gump (1994),Jurassic Park (1993),Die Hard: With a Vengeance (1995),Speed (1994)
+243,"Fugitive, The (1993)",Braveheart (1995),Pulp Fiction (1994),Jurassic Park (1993),Clear and Present Danger (1994)
+244,Star Wars: Episode VI - Return of the Jedi (1983),Star Wars: Episode IV - A New Hope (1977),Jurassic Park (1993),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Indiana Jones and the Last Crusade (1989)
+245,Toy Story (1995),Monty Python and the Holy Grail (1975),"Princess Bride, The (1987)",It's a Wonderful Life (1946),One Flew Over the Cuckoo's Nest (1975)
+246,"Dark Knight, The (2008)","Incredibles, The (2004)",Shrek (2001),Harry Potter and the Prisoner of Azkaban (2004),"Shawshank Redemption, The (1994)"
+247,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Ocean's Eleven (2001),"King's Speech, The (2010)","Social Network, The (2010)",Die Hard (1988)
+248,"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Two Towers, The (2002)",Forrest Gump (1994),Fight Club (1999)
+249,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Old Boy (2003),"Beautiful Mind, A (2001)","Girl with the Dragon Tattoo, The (2011)",Sweeney Todd: The Demon Barber of Fleet Street (2007)
+250,Schindler's List (1993),"Silence of the Lambs, The (1991)",Amadeus (1984),E.T. the Extra-Terrestrial (1982),American Beauty (1999)
+251,"Usual Suspects, The (1995)","Godfather, The (1972)",American Beauty (1999),Star Wars: Episode IV - A New Hope (1977),Braveheart (1995)
+252,Forrest Gump (1994),Up (2009),WALL·E (2008),"Shawshank Redemption, The (1994)",Shrek (2001)
+253,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Spirited Away (Sen to Chihiro no kamikakushi) (2001),Pulp Fiction (1994),Eternal Sunshine of the Spotless Mind (2004),American Beauty (1999)
+254,"Dark Knight, The (2008)",Fargo (1996),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Inception (2010),Good Will Hunting (1997)
+255,Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),"Breakfast Club, The (1985)",Jurassic Park (1993),"Princess Bride, The (1987)"
+256,Inception (2010),"Dark Knight, The (2008)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Pirates of the Caribbean: The Curse of the Black Pearl (2003),Forrest Gump (1994)
+257,"Princess Bride, The (1987)",Willy Wonka & the Chocolate Factory (1971),Star Wars: Episode IV - A New Hope (1977),Blade Runner (1982),Heat (1995)
+258,Forrest Gump (1994),Inception (2010),"Lord of the Rings: The Fellowship of the Ring, The (2001)",Pulp Fiction (1994),"Lord of the Rings: The Return of the King, The (2003)"
+259,Forrest Gump (1994),Finding Nemo (2003),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","Beautiful Mind, A (2001)",Braveheart (1995)
+260,American Beauty (1999),Apocalypse Now (1979),Clerks (1994),Monty Python and the Holy Grail (1975),Monty Python's Life of Brian (1979)
+261,Fight Club (1999),"Silence of the Lambs, The (1991)","Godfather, The (1972)",Memento (2000),"Departed, The (2006)"
+262,Schindler's List (1993),Forrest Gump (1994),Apollo 13 (1995),Braveheart (1995),Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+263,"Sixth Sense, The (1999)",Star Wars: Episode IV - A New Hope (1977),Gladiator (2000),Fight Club (1999),"Truman Show, The (1998)"
+264,Star Wars: Episode IV - A New Hope (1977),"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Terminator 2: Judgment Day (1991),Aladdin (1992)
+265,Star Wars: Episode VI - Return of the Jedi (1983),Schindler's List (1993),"Fugitive, The (1993)",Indiana Jones and the Last Crusade (1989),Forrest Gump (1994)
+266,"Godfather, The (1972)",American Beauty (1999),"Godfather: Part II, The (1974)","Silence of the Lambs, The (1991)",Office Space (1999)
+267,Indiana Jones and the Last Crusade (1989),Alien (1979),Forrest Gump (1994),Die Hard (1988),Saving Private Ryan (1998)
+268,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Monty Python and the Holy Grail (1975),Saving Private Ryan (1998),Pulp Fiction (1994),Fargo (1996)
+269,Fargo (1996),Twister (1996),"Birdcage, The (1996)",Star Wars: Episode IV - A New Hope (1977),Dead Man Walking (1995)
+270,Star Wars: Episode IV - A New Hope (1977),"Time to Kill, A (1996)",Phenomenon (1996),Jerry Maguire (1996),Tin Cup (1996)
+271,Blade Runner (1982),Star Wars: Episode V - The Empire Strikes Back (1980),Goodfellas (1990),"Terminator, The (1984)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+272,Forrest Gump (1994),Inception (2010),Fight Club (1999),"Dark Knight, The (2008)",Star Wars: Episode V - The Empire Strikes Back (1980)
+273,"Shawshank Redemption, The (1994)",Forrest Gump (1994),Braveheart (1995),True Lies (1994),Die Hard: With a Vengeance (1995)
+274,Big Fish (2003),L.A. Confidential (1997),E.T. the Extra-Terrestrial (1982),"Abyss, The (1989)",Poltergeist (1982)
+275,"Sixth Sense, The (1999)",Who Framed Roger Rabbit? (1988),"O Brother, Where Art Thou? (2000)","Wizard of Oz, The (1939)","Postman, The (Postino, Il) (1994)"
+276,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),"Rock, The (1996)",Willy Wonka & the Chocolate Factory (1971),Pulp Fiction (1994),"Birdcage, The (1996)"
+277,Mission: Impossible (1996),"Rock, The (1996)","Birdcage, The (1996)",Heat (1995),Executive Decision (1996)
+278,Pulp Fiction (1994),Fight Club (1999),"Silence of the Lambs, The (1991)","Godfather, The (1972)",Forrest Gump (1994)
+279,Seven (a.k.a. Se7en) (1995),Reservoir Dogs (1992),"Sixth Sense, The (1999)",WALL·E (2008),Guardians of the Galaxy (2014)
+280,"Beautiful Mind, A (2001)",Fight Club (1999),Aladdin (1992),Dirty Dancing (1987),"Shawshank Redemption, The (1994)"
+281,Eternal Sunshine of the Spotless Mind (2004),Superbad (2007),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Shaun of the Dead (2004),"Dark Knight, The (2008)"
+282,Seven (a.k.a. Se7en) (1995),Eternal Sunshine of the Spotless Mind (2004),"Lord of the Rings: The Fellowship of the Ring, The (2001)",Star Wars: Episode V - The Empire Strikes Back (1980),"Lord of the Rings: The Two Towers, The (2002)"
+283,Star Wars: Episode IV - A New Hope (1977),Pulp Fiction (1994),Schindler's List (1993),"Matrix, The (1999)",Jurassic Park (1993)
+284,"Lion King, The (1994)",Crimson Tide (1995),Outbreak (1995),Interview with the Vampire: The Vampire Chronicles (1994),"Silence of the Lambs, The (1991)"
+285,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Apocalypse Now (1979),"Silence of the Lambs, The (1991)",Fargo (1996),Reservoir Dogs (1992)
+286,"Shawshank Redemption, The (1994)",American Beauty (1999),"Usual Suspects, The (1995)",Good Will Hunting (1997),"Godfather, The (1972)"
+287,Eternal Sunshine of the Spotless Mind (2004),Trainspotting (1996),Memento (2000),Almost Famous (2000),American Beauty (1999)
+288,Reservoir Dogs (1992),American Beauty (1999),"Usual Suspects, The (1995)",Labyrinth (1986),"NeverEnding Story, The (1984)"
+289,Goodfellas (1990),Fargo (1996),Reservoir Dogs (1992),Amadeus (1984),"Clockwork Orange, A (1971)"
+290,"Graduate, The (1967)",To Kill a Mockingbird (1962),12 Angry Men (1957),Forrest Gump (1994),M*A*S*H (a.k.a. MASH) (1970)
+291,Inception (2010),How to Train Your Dragon (2010),"Dark Knight Rises, The (2012)","Incredibles, The (2004)",Finding Nemo (2003)
+292,Mission: Impossible (1996),Apollo 13 (1995),"Avengers, The (2012)",Jumanji (1995),Harry Potter and the Goblet of Fire (2005)
+293,Pulp Fiction (1994),"Shawshank Redemption, The (1994)","Matrix, The (1999)",Saving Private Ryan (1998),Schindler's List (1993)
+294,Groundhog Day (1993),"Matrix, The (1999)",Clerks (1994),Spaceballs (1987),Billy Madison (1995)
+295,"Matrix, The (1999)","Silence of the Lambs, The (1991)",Schindler's List (1993),Forrest Gump (1994),American Beauty (1999)
+296,"Silence of the Lambs, The (1991)",Memento (2000),"Lord of the Rings: The Fellowship of the Ring, The (2001)",American Beauty (1999),"Godfather, The (1972)"
+297,Pulp Fiction (1994),Braveheart (1995),"Shawshank Redemption, The (1994)",Twelve Monkeys (a.k.a. 12 Monkeys) (1995),"Godfather, The (1972)"
+298,"Truman Show, The (1998)",Scarface (1983),WALL·E (2008),Zombieland (2009),Black Swan (2010)
+299,Star Wars: Episode V - The Empire Strikes Back (1980),Saving Private Ryan (1998),Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode VI - Return of the Jedi (1983),"Matrix, The (1999)"
+300,Pulp Fiction (1994),"Dark Knight, The (2008)","Godfather, The (1972)","Lord of the Rings: The Fellowship of the Ring, The (2001)",One Flew Over the Cuckoo's Nest (1975)
+301,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Fight Club (1999),Apollo 13 (1995),"Lord of the Rings: The Fellowship of the Ring, The (2001)"
+302,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Toy Story (1995),"Usual Suspects, The (1995)",Schindler's List (1993)
+303,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Indiana Jones and the Last Crusade (1989),Independence Day (a.k.a. ID4) (1996),Blade Runner (1982),Die Hard (1988)
+304,Twister (1996),Batman (1989),Ghost (1990),Fargo (1996),"Usual Suspects, The (1995)"
+305,Groundhog Day (1993),Apocalypse Now (1979),Casino Royale (2006),Superbad (2007),Taken (2008)
+306,Forrest Gump (1994),Despicable Me (2010),"Dark Knight, The (2008)",Inception (2010),Kingsman: The Secret Service (2015)
+307,Ocean's Eleven (2001),Apocalypse Now (1979),High Fidelity (2000),Ratatouille (2007),"Prestige, The (2006)"
+308,Shrek (2001),Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Pulp Fiction (1994),Toy Story (1995),Harry Potter and the Half-Blood Prince (2009)
+309,"Godfather, The (1972)",One Flew Over the Cuckoo's Nest (1975),"Silence of the Lambs, The (1991)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Godfather: Part II, The (1974)"
+310,Monty Python and the Holy Grail (1975),Casablanca (1942),"Sting, The (1973)","Great Escape, The (1963)",Apocalypse Now (1979)
+311,"Clockwork Orange, A (1971)",X-Men (2000),"Matrix, The (1999)",Reservoir Dogs (1992),American Beauty (1999)
+312,"Shining, The (1980)",Back to the Future (1985),"Silence of the Lambs, The (1991)","Fifth Element, The (1997)","Godfather, The (1972)"
+313,"Fifth Element, The (1997)",Braveheart (1995),"Thing, The (1982)",Face/Off (1997),"Clockwork Orange, A (1971)"
+314,"Firm, The (1993)",While You Were Sleeping (1995),Babe (1995),Outbreak (1995),Twister (1996)
+315,Casablanca (1942),Rear Window (1954),It's a Wonderful Life (1946),Psycho (1960),North by Northwest (1959)
+316,Fight Club (1999),Memento (2000),Seven (a.k.a. Se7en) (1995),Pulp Fiction (1994),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"
+317,Memento (2000),Schindler's List (1993),"Godfather: Part II, The (1974)","Clockwork Orange, A (1971)",Donnie Darko (2001)
+318,Fight Club (1999),American History X (1998),Requiem for a Dream (2000),"Usual Suspects, The (1995)","Prestige, The (2006)"
+319,"Silence of the Lambs, The (1991)",Pulp Fiction (1994),"Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Star Wars: Episode IV - A New Hope (1977)
+320,"Dark Knight, The (2008)",WALL·E (2008),"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Two Towers, The (2002)","Shawshank Redemption, The (1994)"
+321,Dances with Wolves (1990),Braveheart (1995),"Shawshank Redemption, The (1994)",Pulp Fiction (1994),Cliffhanger (1993)
+322,"Silence of the Lambs, The (1991)",Schindler's List (1993),Saving Private Ryan (1998),Good Will Hunting (1997),Reservoir Dogs (1992)
+323,"Silence of the Lambs, The (1991)",Dances with Wolves (1990),Batman (1989),Terminator 2: Judgment Day (1991),Beauty and the Beast (1991)
+324,"Shawshank Redemption, The (1994)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Usual Suspects, The (1995)",Goodfellas (1990),Apocalypse Now (1979)
+325,Fargo (1996),Star Wars: Episode IV - A New Hope (1977),American Beauty (1999),"Clockwork Orange, A (1971)","Matrix, The (1999)"
+326,"Dark Knight, The (2008)","Godfather, The (1972)",Good Will Hunting (1997),V for Vendetta (2006),"Dark Knight Rises, The (2012)"
+327,Pulp Fiction (1994),Fight Club (1999),"Matrix, The (1999)",American Beauty (1999),Schindler's List (1993)
+328,"Lord of the Rings: The Fellowship of the Ring, The (2001)","Silence of the Lambs, The (1991)",Finding Nemo (2003),"Monsters, Inc. (2001)",American Beauty (1999)
+329,Fight Club (1999),Pulp Fiction (1994),Forrest Gump (1994),Full Metal Jacket (1987),Schindler's List (1993)
+330,Schindler's List (1993),Good Will Hunting (1997),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","O Brother, Where Art Thou? (2000)",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+331,"Departed, The (2006)",Catch Me If You Can (2002),Memento (2000),Up (2009),"Prestige, The (2006)"
+332,Star Wars: Episode IV - A New Hope (1977),"Godfather, The (1972)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),2001: A Space Odyssey (1968),"Monsters, Inc. (2001)"
+333,"Shawshank Redemption, The (1994)","Godfather: Part II, The (1974)",Goodfellas (1990),"Godfather, The (1972)",Fight Club (1999)
+334,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Braveheart (1995),American Beauty (1999),"Princess Bride, The (1987)","Silence of the Lambs, The (1991)"
+335,Star Wars: Episode IV - A New Hope (1977),Schindler's List (1993),Fight Club (1999),Jurassic Park (1993),Seven (a.k.a. Se7en) (1995)
+336,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Memento (2000),Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Two Towers, The (2002)",Gladiator (2000)
+337,Fargo (1996),"Fugitive, The (1993)",Speed (1994),James and the Giant Peach (1996),Terminator 2: Judgment Day (1991)
+338,Forrest Gump (1994),"Matrix, The (1999)",American History X (1998),One Flew Over the Cuckoo's Nest (1975),Memento (2000)
+339,"Matrix, The (1999)",Kill Bill: Vol. 1 (2003),Good Will Hunting (1997),Casino Royale (2006),Kill Bill: Vol. 2 (2004)
+340,True Lies (1994),"Silence of the Lambs, The (1991)",Speed (1994),Aladdin (1992),Seven (a.k.a. Se7en) (1995)
+341,"Shawshank Redemption, The (1994)",Shrek (2001),Finding Nemo (2003),"Silence of the Lambs, The (1991)",Aladdin (1992)
+342,"Matrix, The (1999)",Star Wars: Episode IV - A New Hope (1977),American Beauty (1999),Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983)
+343,Forrest Gump (1994),"Dark Knight, The (2008)",Inception (2010),Eternal Sunshine of the Spotless Mind (2004),Saving Private Ryan (1998)
+344,Star Wars: Episode V - The Empire Strikes Back (1980),"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Return of the King, The (2003)",Pirates of the Caribbean: The Curse of the Black Pearl (2003),"Lord of the Rings: The Two Towers, The (2002)"
+345,Casablanca (1942),"Silence of the Lambs, The (1991)",Blade Runner (1982),Reservoir Dogs (1992),"Godfather, The (1972)"
+346,"Silence of the Lambs, The (1991)",Reservoir Dogs (1992),"Shawshank Redemption, The (1994)",Memento (2000),American History X (1998)
+347,Pulp Fiction (1994),"Shawshank Redemption, The (1994)",Clear and Present Danger (1994),Crimson Tide (1995),"Mask, The (1994)"
+348,"Matrix, The (1999)",Forrest Gump (1994),One Flew Over the Cuckoo's Nest (1975),"Lord of the Rings: The Return of the King, The (2003)",Saving Private Ryan (1998)
+349,"Shawshank Redemption, The (1994)",Apollo 13 (1995),Braveheart (1995),"Fugitive, The (1993)",True Lies (1994)
+350,Independence Day (a.k.a. ID4) (1996),Heat (1995),Mr. Holland's Opus (1995),Happy Gilmore (1996),Star Wars: Episode V - The Empire Strikes Back (1980)
+351,"Shawshank Redemption, The (1994)",Schindler's List (1993),American History X (1998),"Godfather, The (1972)",American Beauty (1999)
+352,"Godfather, The (1972)","Avengers, The (2012)",District 9 (2009),Kill Bill: Vol. 1 (2003),One Flew Over the Cuckoo's Nest (1975)
+353,Apollo 13 (1995),Forrest Gump (1994),Jurassic Park (1993),Terminator 2: Judgment Day (1991),"Usual Suspects, The (1995)"
+354,Braveheart (1995),Aliens (1986),Memento (2000),Austin Powers: The Spy Who Shagged Me (1999),Cast Away (2000)
+355,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983),"Matrix, The (1999)",Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994)
+356,Pulp Fiction (1994),Austin Powers: International Man of Mystery (1997),Star Wars: Episode V - The Empire Strikes Back (1980),Kill Bill: Vol. 1 (2003),Shrek (2001)
+357,"Matrix, The (1999)",Pirates of the Caribbean: The Curse of the Black Pearl (2003),One Flew Over the Cuckoo's Nest (1975),"Fugitive, The (1993)","Lord of the Rings: The Two Towers, The (2002)"
+358,"Beautiful Mind, A (2001)",Forrest Gump (1994),Love Actually (2003),Life Is Beautiful (La Vita è bella) (1997),Up (2009)
+359,Forrest Gump (1994),"Shawshank Redemption, The (1994)","Sixth Sense, The (1999)",Saving Private Ryan (1998),Braveheart (1995)
+360,Rear Window (1954),Saving Private Ryan (1998),Trainspotting (1996),American History X (1998),"Sixth Sense, The (1999)"
+361,"Matrix, The (1999)",Braveheart (1995),Gladiator (2000),Saving Private Ryan (1998),Shrek (2001)
+362,Schindler's List (1993),Memento (2000),American Beauty (1999),Saving Private Ryan (1998),"Dark Knight, The (2008)"
+363,Forrest Gump (1994),Fight Club (1999),"Silence of the Lambs, The (1991)",American Beauty (1999),Schindler's List (1993)
+364,Heat (1995),Fargo (1996),Dead Man Walking (1995),Leaving Las Vegas (1995),Mr. Holland's Opus (1995)
+365,WALL·E (2008),Back to the Future (1985),"40-Year-Old Virgin, The (2005)",Kingsman: The Secret Service (2015),"Truman Show, The (1998)"
+366,"Lord of the Rings: The Two Towers, The (2002)","Matrix, The (1999)","Shawshank Redemption, The (1994)",Pulp Fiction (1994),Forrest Gump (1994)
+367,"Matrix, The (1999)","Princess Bride, The (1987)",Saving Private Ryan (1998),American Beauty (1999),Aladdin (1992)
+368,Blade Runner (1982),Dances with Wolves (1990),"Shawshank Redemption, The (1994)",Star Trek IV: The Voyage Home (1986),Star Wars: Episode I - The Phantom Menace (1999)
+369,American Beauty (1999),Pulp Fiction (1994),"Usual Suspects, The (1995)",Office Space (1999),Being John Malkovich (1999)
+370,Forrest Gump (1994),Braveheart (1995),Saving Private Ryan (1998),"Godfather, The (1972)",Gladiator (2000)
+371,Fight Club (1999),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Lord of the Rings: The Two Towers, The (2002)",Star Wars: Episode V - The Empire Strikes Back (1980),Spirited Away (Sen to Chihiro no kamikakushi) (2001)
+372,Independence Day (a.k.a. ID4) (1996),Jurassic Park (1993),Mission: Impossible (1996),Saving Private Ryan (1998),Casablanca (1942)
+373,Crimson Tide (1995),Aladdin (1992),"Firm, The (1993)",Clear and Present Danger (1994),Beauty and the Beast (1991)
+374,"Silence of the Lambs, The (1991)",Terminator 2: Judgment Day (1991),Seven (a.k.a. Se7en) (1995),Outbreak (1995),Speed (1994)
+375,Pulp Fiction (1994),"Silence of the Lambs, The (1991)","Matrix, The (1999)",Fight Club (1999),Braveheart (1995)
+376,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),"Silence of the Lambs, The (1991)",Toy Story (1995),Saving Private Ryan (1998)
+377,Blade Runner (1982),Star Wars: Episode IV - A New Hope (1977),Taxi Driver (1976),Star Wars: Episode V - The Empire Strikes Back (1980),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+378,"Matrix, The (1999)",Forrest Gump (1994),Pulp Fiction (1994),"Usual Suspects, The (1995)",Star Wars: Episode IV - A New Hope (1977)
+379,Aladdin (1992),"Silence of the Lambs, The (1991)",Beauty and the Beast (1991),Star Trek: Generations (1994),GoldenEye (1995)
+380,Kung Fu Panda (2008),Interview with the Vampire: The Vampire Chronicles (1994),Schindler's List (1993),Princess Mononoke (Mononoke-hime) (1997),Gangs of New York (2002)
+381,Kill Bill: Vol. 1 (2003),Pulp Fiction (1994),Kill Bill: Vol. 2 (2004),"40-Year-Old Virgin, The (2005)","Silence of the Lambs, The (1991)"
+382,American Beauty (1999),Good Will Hunting (1997),The Imitation Game (2014),How to Train Your Dragon (2010),Braveheart (1995)
+383,Good Will Hunting (1997),American Beauty (1999),Schindler's List (1993),Saving Private Ryan (1998),"Shawshank Redemption, The (1994)"
+384,"Silence of the Lambs, The (1991)",Goodfellas (1990),"Shawshank Redemption, The (1994)",American Beauty (1999),"Matrix, The (1999)"
+385,Braveheart (1995),Schindler's List (1993),Mission: Impossible (1996),Speed (1994),Alien (1979)
+386,Forrest Gump (1994),Apollo 13 (1995),Aladdin (1992),"Firm, The (1993)",Interview with the Vampire: The Vampire Chronicles (1994)
+387,Magnolia (1999),Dog Day Afternoon (1975),Lost in Translation (2003),12 Angry Men (1957),Amadeus (1984)
+388,"Monsters, Inc. (2001)","Incredibles, The (2004)",Harry Potter and the Prisoner of Azkaban (2004),Pirates of the Caribbean: The Curse of the Black Pearl (2003),Toy Story 3 (2010)
+389,Willy Wonka & the Chocolate Factory (1971),Fargo (1996),Sabrina (1995),Star Wars: Episode VI - Return of the Jedi (1983),Dead Man Walking (1995)
+390,Pulp Fiction (1994),Forrest Gump (1994),"Shawshank Redemption, The (1994)","Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Fellowship of the Ring, The (2001)"
+391,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),American History X (1998),Lethal Weapon (1987),Ed Wood (1994),"South Park: Bigger, Longer and Uncut (1999)"
+392,"Godfather, The (1972)","Matrix, The (1999)",Star Wars: Episode IV - A New Hope (1977),Fight Club (1999),Star Wars: Episode V - The Empire Strikes Back (1980)
+393,"Incredibles, The (2004)",Shrek (2001),"Monsters, Inc. (2001)",WALL·E (2008),"Departed, The (2006)"
+394,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),Terminator 2: Judgment Day (1991),"Silence of the Lambs, The (1991)",Clear and Present Danger (1994)
+395,"Fugitive, The (1993)",Batman Forever (1995),Ace Ventura: Pet Detective (1994),Apollo 13 (1995),Clear and Present Danger (1994)
+396,Forrest Gump (1994),Pulp Fiction (1994),Schindler's List (1993),One Flew Over the Cuckoo's Nest (1975),Fight Club (1999)
+397,Casablanca (1942),"Philadelphia Story, The (1940)","Godfather, The (1972)",Chinatown (1974),Rear Window (1954)
+398,"Shawshank Redemption, The (1994)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Return of the King, The (2003)",Fight Club (1999),Forrest Gump (1994)
+399,"Shawshank Redemption, The (1994)",Saving Private Ryan (1998),"Godfather, The (1972)",Pirates of the Caribbean: The Curse of the Black Pearl (2003),Memento (2000)
+400,Schindler's List (1993),Saving Private Ryan (1998),American Beauty (1999),Braveheart (1995),"Lord of the Rings: The Two Towers, The (2002)"
+401,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Harry Potter and the Prisoner of Azkaban (2004),"Dark Knight, The (2008)",Inception (2010),Spirited Away (Sen to Chihiro no kamikakushi) (2001)
+402,Forrest Gump (1994),Braveheart (1995),"Shawshank Redemption, The (1994)",Toy Story (1995),Apollo 13 (1995)
+403,Fight Club (1999),"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)","Usual Suspects, The (1995)","Godfather, The (1972)"
+404,Apollo 13 (1995),Batman (1989),Terminator 2: Judgment Day (1991),Beauty and the Beast (1991),Batman Forever (1995)
+405,"Usual Suspects, The (1995)",Seven (a.k.a. Se7en) (1995),Fargo (1996),"Shawshank Redemption, The (1994)",Trainspotting (1996)
+406,"Crazy, Stupid, Love. (2011)",Easy A (2010),"Ugly Truth, The (2009)","Streetcar Named Desire, A (1951)",10 Things I Hate About You (1999)
+407,Inception (2010),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Shawshank Redemption, The (1994)",Memento (2000),"Godfather, The (1972)"
+408,Iron Man (2008),WALL·E (2008),Fight Club (1999),Pulp Fiction (1994),Up (2009)
+409,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Usual Suspects, The (1995)",Apocalypse Now (1979),This Is Spinal Tap (1984),Ferris Bueller's Day Off (1986)
+410,Some Like It Hot (1959),One Flew Over the Cuckoo's Nest (1975),Election (1999),Fargo (1996),Monty Python and the Holy Grail (1975)
+411,Aladdin (1992),Batman Forever (1995),Beauty and the Beast (1991),Addams Family Values (1993),What's Eating Gilbert Grape (1993)
+412,Casablanca (1942),Star Wars: Episode IV - A New Hope (1977),One Flew Over the Cuckoo's Nest (1975),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Goodfellas (1990)
+413,"Matrix, The (1999)",Forrest Gump (1994),"Usual Suspects, The (1995)","Dark Knight, The (2008)",Inception (2010)
+414,Annie Hall (1977),Psycho (1960),"Shining, The (1980)",Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Harry Potter and the Prisoner of Azkaban (2004)
+415,Schindler's List (1993),Saving Private Ryan (1998),Reservoir Dogs (1992),Braveheart (1995),Star Wars: Episode V - The Empire Strikes Back (1980)
+416,Eternal Sunshine of the Spotless Mind (2004),"Godfather, The (1972)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Silence of the Lambs, The (1991)","Lord of the Rings: The Return of the King, The (2003)"
+417,Schindler's List (1993),"Usual Suspects, The (1995)",Eternal Sunshine of the Spotless Mind (2004),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","Departed, The (2006)"
+418,"Matrix, The (1999)","Godfather, The (1972)",One Flew Over the Cuckoo's Nest (1975),American Beauty (1999),"Dark Knight, The (2008)"
+419,"Departed, The (2006)",Kill Bill: Vol. 1 (2003),Snatch (2000),Inception (2010),Eternal Sunshine of the Spotless Mind (2004)
+420,"Silence of the Lambs, The (1991)",Memento (2000),Finding Nemo (2003),Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980)
+421,Pulp Fiction (1994),"Godfather, The (1972)",Fight Club (1999),Forrest Gump (1994),"Usual Suspects, The (1995)"
+422,Schindler's List (1993),"Matrix, The (1999)",American Beauty (1999),Star Wars: Episode V - The Empire Strikes Back (1980),"Silence of the Lambs, The (1991)"
+423,"Silence of the Lambs, The (1991)",Schindler's List (1993),"Matrix, The (1999)","Usual Suspects, The (1995)",Aladdin (1992)
+424,Forrest Gump (1994),"Big Lebowski, The (1998)",Schindler's List (1993),"Clockwork Orange, A (1971)",Eternal Sunshine of the Spotless Mind (2004)
+425,Toy Story (1995),X-Men (2000),"Matrix Reloaded, The (2003)",Blade Runner (1982),American Pie (1999)
+426,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Toy Story (1995),Avatar (2009),Schindler's List (1993),Ice Age (2002)
+427,"Lord of the Rings: The Return of the King, The (2003)",Catch Me If You Can (2002),"Matrix, The (1999)",Fight Club (1999),"Shawshank Redemption, The (1994)"
+428,Memento (2000),Die Hard (1988),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),"Bourne Identity, The (2002)",Seven (a.k.a. Se7en) (1995)
+429,"Fugitive, The (1993)","Firm, The (1993)",Forrest Gump (1994),Braveheart (1995),"Lion King, The (1994)"
+430,Fight Club (1999),Memento (2000),"Silence of the Lambs, The (1991)",Saving Private Ryan (1998),Gladiator (2000)
+431,Reservoir Dogs (1992),"Big Lebowski, The (1998)",Full Metal Jacket (1987),"Usual Suspects, The (1995)","Godfather: Part II, The (1974)"
+432,Saving Private Ryan (1998),Eternal Sunshine of the Spotless Mind (2004),Apollo 13 (1995),"Incredibles, The (2004)",Batman Begins (2005)
+433,Forrest Gump (1994),"Matrix, The (1999)","Godfather, The (1972)",American Beauty (1999),Goodfellas (1990)
+434,"Usual Suspects, The (1995)",Pirates of the Caribbean: The Curse of the Black Pearl (2003),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Inception (2010)
+435,"Matrix, The (1999)",Pulp Fiction (1994),"Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Forrest Gump (1994)
+436,Dances with Wolves (1990),Pulp Fiction (1994),Braveheart (1995),Star Trek: Generations (1994),Batman Forever (1995)
+437,"Silence of the Lambs, The (1991)",Toy Story (1995),"Fugitive, The (1993)","Godfather, The (1972)",Get Shorty (1995)
+438,There's Something About Mary (1998),Desperado (1995),"Godfather, The (1972)",Dumb & Dumber (Dumb and Dumber) (1994),Three Kings (1999)
+439,Pulp Fiction (1994),Fight Club (1999),Star Wars: Episode IV - A New Hope (1977),"Silence of the Lambs, The (1991)",Star Wars: Episode V - The Empire Strikes Back (1980)
+440,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Apocalypse Now (1979),Rear Window (1954),Memento (2000),Reservoir Dogs (1992)
+441,"Shawshank Redemption, The (1994)","Lord of the Rings: The Two Towers, The (2002)",American Beauty (1999),Inception (2010),Forrest Gump (1994)
+442,"Princess Bride, The (1987)",Some Like It Hot (1959),Singin' in the Rain (1952),His Girl Friday (1940),Annie Hall (1977)
+443,Schindler's List (1993),"Dark Knight, The (2008)","Godfather, The (1972)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Usual Suspects, The (1995)"
+444,"Fugitive, The (1993)",Dances with Wolves (1990),Apollo 13 (1995),Die Hard: With a Vengeance (1995),"Lion King, The (1994)"
+445,"Shawshank Redemption, The (1994)",Memento (2000),"Usual Suspects, The (1995)",American Beauty (1999),"Godfather, The (1972)"
+446,Braveheart (1995),"Shawshank Redemption, The (1994)",Crimson Tide (1995),Ace Ventura: Pet Detective (1994),"Net, The (1995)"
+447,Crimson Tide (1995),Seven (a.k.a. Se7en) (1995),Dumb & Dumber (Dumb and Dumber) (1994),"Net, The (1995)",Waterworld (1995)
+448,"Big Lebowski, The (1998)","Shawshank Redemption, The (1994)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Nightmare Before Christmas, The (1993)",Aladdin (1992)
+449,Pulp Fiction (1994),"Matrix, The (1999)","Silence of the Lambs, The (1991)",Reservoir Dogs (1992),"Godfather, The (1972)"
+450,"Matrix, The (1999)","Godfather, The (1972)",Star Wars: Episode V - The Empire Strikes Back (1980),"Shawshank Redemption, The (1994)",Star Wars: Episode VI - Return of the Jedi (1983)
+451,Dead Man Walking (1995),Star Wars: Episode IV - A New Hope (1977),Mr. Holland's Opus (1995),"Usual Suspects, The (1995)",Pulp Fiction (1994)
+452,RoboCop (1987),"Silence of the Lambs, The (1991)","Rock, The (1996)",Ghostbusters (a.k.a. Ghost Busters) (1984),"Fugitive, The (1993)"
+453,Erin Brockovich (2000),Austin Powers: International Man of Mystery (1997),Back to the Future (1985),Clerks (1994),Payback (1999)
+454,Fight Club (1999),"Shawshank Redemption, The (1994)","Usual Suspects, The (1995)",One Flew Over the Cuckoo's Nest (1975),Memento (2000)
+455,Pulp Fiction (1994),Seven (a.k.a. Se7en) (1995),Batman Forever (1995),"Net, The (1995)",Waterworld (1995)
+456,Star Trek: First Contact (1996),Broken Arrow (1996),Mr. Holland's Opus (1995),Executive Decision (1996),Heat (1995)
+457,"Matrix, The (1999)",Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Saving Private Ryan (1998)
+458,"Shawshank Redemption, The (1994)",Cliffhanger (1993),"Silence of the Lambs, The (1991)",Babe (1995),Seven (a.k.a. Se7en) (1995)
+459,"Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Fight Club (1999),"Dark Knight, The (2008)"
+460,"Dark Knight, The (2008)",Memento (2000),Eternal Sunshine of the Spotless Mind (2004),Kill Bill: Vol. 1 (2003),Star Wars: Episode IV - A New Hope (1977)
+461,Pulp Fiction (1994),American Beauty (1999),Fight Club (1999),"Godfather, The (1972)",American History X (1998)
+462,One Flew Over the Cuckoo's Nest (1975),Brazil (1985),Indiana Jones and the Last Crusade (1989),Traffic (2000),Memento (2000)
+463,"Matrix, The (1999)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Shawshank Redemption, The (1994)",Fight Club (1999),"Godfather, The (1972)"
+464,"Usual Suspects, The (1995)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Apollo 13 (1995),"Fugitive, The (1993)",Titanic (1997)
+465,"Godfather, The (1972)","Godfather: Part II, The (1974)",Pulp Fiction (1994),"Shawshank Redemption, The (1994)",Goodfellas (1990)
+466,"Monsters, Inc. (2001)",Avatar (2009),Casino Royale (2006),"Beautiful Mind, A (2001)",V for Vendetta (2006)
+467,"Shawshank Redemption, The (1994)",Forrest Gump (1994),Good Will Hunting (1997),"Godfather, The (1972)",Amadeus (1984)
+468,Forrest Gump (1994),"Fugitive, The (1993)",Jurassic Park (1993),"Silence of the Lambs, The (1991)",Terminator 2: Judgment Day (1991)
+469,Forrest Gump (1994),Glory (1989),"Dirty Dozen, The (1967)",It's a Wonderful Life (1946),"African Queen, The (1951)"
+470,Independence Day (a.k.a. ID4) (1996),"Silence of the Lambs, The (1991)","Rock, The (1996)","Birdcage, The (1996)",In the Line of Fire (1993)
+471,"Shawshank Redemption, The (1994)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Dark Knight, The (2008)"
+472,"Matrix, The (1999)",Fight Club (1999),Pulp Fiction (1994),Schindler's List (1993),Star Wars: Episode IV - A New Hope (1977)
+473,Memento (2000),Pulp Fiction (1994),"Dark Knight, The (2008)",Requiem for a Dream (2000),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"
+474,"Crying Game, The (1992)",Election (1999),Ben-Hur (1959),Secretary (2002),"Motorcycle Diaries, The (Diarios de motocicleta) (2004)"
+475,WALL·E (2008),Up (2009),Minority Report (2002),Casino Royale (2006),Forrest Gump (1994)
+476,Braveheart (1995),"Silence of the Lambs, The (1991)",Schindler's List (1993),Ace Ventura: Pet Detective (1994),Outbreak (1995)
+477,Fight Club (1999),"O Brother, Where Art Thou? (2000)","Clockwork Orange, A (1971)",Dances with Wolves (1990),"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)"
+478,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Star Wars: Episode VI - Return of the Jedi (1983),Star Wars: Episode IV - A New Hope (1977),Toy Story (1995),"Fifth Element, The (1997)"
+479,Back to the Future (1985),Stand by Me (1986),When Harry Met Sally... (1989),American Beauty (1999),Forrest Gump (1994)
+480,Minority Report (2002),Galaxy Quest (1999),Casablanca (1942),"Bourne Supremacy, The (2004)",Chicago (2002)
+481,Good Will Hunting (1997),"Hunt for Red October, The (1990)",Life Is Beautiful (La Vita è bella) (1997),"Godfather: Part II, The (1974)",Schindler's List (1993)
+482,"Rock, The (1996)",Star Wars: Episode VI - Return of the Jedi (1983),Star Trek: First Contact (1996),Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980)
+483,Reservoir Dogs (1992),Office Space (1999),"Clockwork Orange, A (1971)",Requiem for a Dream (2000),Donnie Darko (2001)
+484,Fantasia (1940),Babe (1995),Ferris Bueller's Day Off (1986),Finding Nemo (2003),"Goonies, The (1985)"
+485,"Shawshank Redemption, The (1994)",Jurassic Park (1993),"Firm, The (1993)",Speed (1994),Terminator 2: Judgment Day (1991)
+486,Dances with Wolves (1990),"Firm, The (1993)","Net, The (1995)","Mask, The (1994)","Lion King, The (1994)"
+487,"Dark Knight, The (2008)",Memento (2000),Finding Nemo (2003),Forrest Gump (1994),Spirited Away (Sen to Chihiro no kamikakushi) (2001)
+488,Forrest Gump (1994),"Matrix, The (1999)",Pulp Fiction (1994),Memento (2000),Star Wars: Episode IV - A New Hope (1977)
+489,Toy Story (1995),Schindler's List (1993),"Monsters, Inc. (2001)",Gattaca (1997),Star Wars: Episode IV - A New Hope (1977)
+490,"Shawshank Redemption, The (1994)",Kill Bill: Vol. 1 (2003),American Beauty (1999),"Departed, The (2006)",Inglourious Basterds (2009)
+491,Harry Potter and the Prisoner of Azkaban (2004),Finding Nemo (2003),Up (2009),Ocean's Eleven (2001),"Incredibles, The (2004)"
+492,Leaving Las Vegas (1995),Fargo (1996),Sense and Sensibility (1995),White Squall (1996),Groundhog Day (1993)
+493,Star Wars: Episode VI - Return of the Jedi (1983),Die Hard (1988),Jurassic Park (1993),Back to the Future (1985),Pulp Fiction (1994)
+494,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Forrest Gump (1994),Pulp Fiction (1994),Schindler's List (1993)
+495,American History X (1998),American Beauty (1999),"Silence of the Lambs, The (1991)",Pulp Fiction (1994),Interstellar (2014)
+496,"Shawshank Redemption, The (1994)",Fight Club (1999),"Matrix, The (1999)",Inception (2010),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+497,Pulp Fiction (1994),Schindler's List (1993),Forrest Gump (1994),Memento (2000),"Godfather: Part II, The (1974)"
+498,Beauty and the Beast (1991),Terminator 2: Judgment Day (1991),Speed (1994),Die Hard: With a Vengeance (1995),"Silence of the Lambs, The (1991)"
+499,Casablanca (1942),Apocalypse Now (1979),Cool Hand Luke (1967),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Lawrence of Arabia (1962)
+500,Monty Python and the Holy Grail (1975),"Princess Bride, The (1987)",Babe (1995),Austin Powers: International Man of Mystery (1997),Pulp Fiction (1994)
+501,"Rock, The (1996)",Mission: Impossible (1996),Eraser (1996),Toy Story (1995),Star Trek: First Contact (1996)
+502,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"Godfather, The (1972)",One Flew Over the Cuckoo's Nest (1975),Psycho (1960),Schindler's List (1993)
+503,"Usual Suspects, The (1995)",American History X (1998),Star Wars: Episode IV - A New Hope (1977),Seven (a.k.a. Se7en) (1995),Braveheart (1995)
+504,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Eternal Sunshine of the Spotless Mind (2004),Memento (2000),As Good as It Gets (1997),Fight Club (1999)
+505,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),"Usual Suspects, The (1995)",American History X (1998),"Shining, The (1980)"
+506,Little Miss Sunshine (2006),"Crazy, Stupid, Love. (2011)","Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Up (2009),Slumdog Millionaire (2008)
+507,"Shawshank Redemption, The (1994)",True Lies (1994),Pulp Fiction (1994),Aladdin (1992),"Lion King, The (1994)"
+508,Star Wars: Episode VI - Return of the Jedi (1983),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),Ghostbusters (a.k.a. Ghost Busters) (1984)
+509,Avatar (2009),Harry Potter and the Half-Blood Prince (2009),Harry Potter and the Order of the Phoenix (2007),"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Forrest Gump (1994)
+510,Pulp Fiction (1994),"Shawshank Redemption, The (1994)",Fargo (1996),Reservoir Dogs (1992),Star Wars: Episode IV - A New Hope (1977)
+511,"Lord of the Rings: The Two Towers, The (2002)","Dark Knight, The (2008)",Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),"Silence of the Lambs, The (1991)"
+512,Batman (1989),Batman Forever (1995),While You Were Sleeping (1995),Dumb & Dumber (Dumb and Dumber) (1994),Star Trek: Generations (1994)
+513,Forrest Gump (1994),Schindler's List (1993),"Matrix, The (1999)",Fargo (1996),Star Wars: Episode V - The Empire Strikes Back (1980)
+514,"Shawshank Redemption, The (1994)","Green Mile, The (1999)",Lethal Weapon (1987),Toy Story 2 (1999),Schindler's List (1993)
+515,"Matrix, The (1999)","Silence of the Lambs, The (1991)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Fellowship of the Ring, The (2001)",Pulp Fiction (1994)
+516,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983),"Shawshank Redemption, The (1994)",Monty Python and the Holy Grail (1975),"Godfather, The (1972)"
+517,Toy Story 2 (1999),Dances with Wolves (1990),Cinderella (1950),"Incredibles, The (2004)",Apollo 13 (1995)
+518,"Matrix, The (1999)","Princess Bride, The (1987)",Snatch (2000),Wallace & Gromit: The Wrong Trousers (1993),"Incredibles, The (2004)"
+519,Fight Club (1999),"Departed, The (2006)","Dark Knight, The (2008)",Pulp Fiction (1994),"Silence of the Lambs, The (1991)"
+520,Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - Return of the Jedi (1983),Pirates of the Caribbean: The Curse of the Black Pearl (2003),Gladiator (2000)
+521,Star Wars: Episode IV - A New Hope (1977),"Birdcage, The (1996)",Toy Story (1995),Mr. Holland's Opus (1995),Sense and Sensibility (1995)
+522,"Silence of the Lambs, The (1991)",Seven (a.k.a. Se7en) (1995),Terminator 2: Judgment Day (1991),Schindler's List (1993),WALL·E (2008)
+523,"Matrix, The (1999)",Inception (2010),Memento (2000),Pulp Fiction (1994),Up (2009)
+524,Pulp Fiction (1994),Forrest Gump (1994),Dances with Wolves (1990),Fargo (1996),Cliffhanger (1993)
+525,"O Brother, Where Art Thou? (2000)","Lord of the Rings: The Return of the King, The (2003)",Hot Fuzz (2007),"Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Fellowship of the Ring, The (2001)"
+526,Forrest Gump (1994),Schindler's List (1993),Eternal Sunshine of the Spotless Mind (2004),"Matrix, The (1999)",Good Will Hunting (1997)
+527,Aliens (1986),Toy Story (1995),"Princess Bride, The (1987)",Men in Black (a.k.a. MIB) (1997),"Terminator, The (1984)"
+528,"Shawshank Redemption, The (1994)",Fight Club (1999),Inception (2010),Saving Private Ryan (1998),"Godfather, The (1972)"
+529,Star Wars: Episode VI - Return of the Jedi (1983),Star Trek: First Contact (1996),Executive Decision (1996),Fargo (1996),Heat (1995)
+530,"Shawshank Redemption, The (1994)",Braveheart (1995),Pulp Fiction (1994),Aladdin (1992),Beauty and the Beast (1991)
+531,Star Wars: Episode V - The Empire Strikes Back (1980),"Matrix, The (1999)",Star Wars: Episode VI - Return of the Jedi (1983),"Shawshank Redemption, The (1994)",Terminator 2: Judgment Day (1991)
+532,Star Wars: Episode V - The Empire Strikes Back (1980),Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994),"Usual Suspects, The (1995)"
+533,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Pulp Fiction (1994),American Beauty (1999),Finding Nemo (2003)
+534,"Matrix Reloaded, The (2003)",Groundhog Day (1993),District 9 (2009),Anchorman: The Legend of Ron Burgundy (2004),"Shawshank Redemption, The (1994)"
+535,Fight Club (1999),Saving Private Ryan (1998),Pulp Fiction (1994),American History X (1998),Star Wars: Episode V - The Empire Strikes Back (1980)
+536,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),Crimson Tide (1995),True Lies (1994),Aladdin (1992)
+537,Fight Club (1999),Pulp Fiction (1994),Memento (2000),Kill Bill: Vol. 1 (2003),Inglourious Basterds (2009)
+538,Mary Poppins (1964),"Shawshank Redemption, The (1994)",Toy Story (1995),Finding Nemo (2003),Monty Python and the Holy Grail (1975)
+539,WALL·E (2008),"Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Return of the King, The (2003)",Forrest Gump (1994)
+540,"Shawshank Redemption, The (1994)","Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Two Towers, The (2002)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Forrest Gump (1994)
+541,Apollo 13 (1995),Pulp Fiction (1994),Outbreak (1995),"Net, The (1995)",Schindler's List (1993)
+542,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Good Will Hunting (1997),"Truman Show, The (1998)","Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Return of the King, The (2003)"
+543,"Shawshank Redemption, The (1994)",Pulp Fiction (1994),"Silence of the Lambs, The (1991)",Jurassic Park (1993),Shrek (2001)
+544,"Rock, The (1996)",Star Wars: Episode IV - A New Hope (1977),Fargo (1996),Eraser (1996),"Birdcage, The (1996)"
+545,L.A. Confidential (1997),Star Wars: Episode IV - A New Hope (1977),Fight Club (1999),Reservoir Dogs (1992),Star Wars: Episode V - The Empire Strikes Back (1980)
+546,"Terminator, The (1984)","Matrix, The (1999)","Road Warrior, The (Mad Max 2) (1981)",Star Wars: Episode V - The Empire Strikes Back (1980),"Silence of the Lambs, The (1991)"
+547,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Rear Window (1954),Reservoir Dogs (1992),Fargo (1996),Pulp Fiction (1994)
+548,Fight Club (1999),"Shawshank Redemption, The (1994)",Saving Private Ryan (1998),"Silence of the Lambs, The (1991)",Pulp Fiction (1994)
+549,Pulp Fiction (1994),"Silence of the Lambs, The (1991)","Lord of the Rings: The Fellowship of the Ring, The (2001)","Usual Suspects, The (1995)",American Beauty (1999)
+550,"Dark Knight Rises, The (2012)","Lord of the Rings: The Return of the King, The (2003)",Fight Club (1999),"Lord of the Rings: The Fellowship of the Ring, The (2001)",Star Wars: Episode IV - A New Hope (1977)
+551,"Dark Knight, The (2008)",Gladiator (2000),Star Wars: Episode V - The Empire Strikes Back (1980),"Bourne Ultimatum, The (2007)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+552,Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Fellowship of the Ring, The (2001)",Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Godfather, The (1972)","Princess Bride, The (1987)"
+553,American History X (1998),Seven (a.k.a. Se7en) (1995),"Shawshank Redemption, The (1994)",Memento (2000),Kill Bill: Vol. 1 (2003)
+554,Star Wars: Episode IV - A New Hope (1977),Forrest Gump (1994),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Sixth Sense, The (1999)",Rear Window (1954)
+555,2001: A Space Odyssey (1968),Ghostbusters (a.k.a. Ghost Busters) (1984),Office Space (1999),"Wizard of Oz, The (1939)",There's Something About Mary (1998)
+556,Shrek (2001),WALL·E (2008),"Incredibles, The (2004)",Finding Nemo (2003),Up (2009)
+557,Forrest Gump (1994),"Silence of the Lambs, The (1991)",Pulp Fiction (1994),Braveheart (1995),Jurassic Park (1993)
+558,"Shawshank Redemption, The (1994)",Forrest Gump (1994),"Matrix, The (1999)",Star Wars: Episode IV - A New Hope (1977),"Lord of the Rings: The Two Towers, The (2002)"
+559,Dances with Wolves (1990),"Silence of the Lambs, The (1991)",Waterworld (1995),Seven (a.k.a. Se7en) (1995),Dumb & Dumber (Dumb and Dumber) (1994)
+560,"Shawshank Redemption, The (1994)","Prestige, The (2006)",Life Is Beautiful (La Vita è bella) (1997),Die Hard (1988),Office Space (1999)
+561,"Fifth Element, The (1997)",Back to the Future Part II (1989),"Green Mile, The (1999)","Godfather, The (1972)",Blade Runner (1982)
+562,Eternal Sunshine of the Spotless Mind (2004),Life Is Beautiful (La Vita è bella) (1997),Back to the Future (1985),American History X (1998),Memento (2000)
+563,My Big Fat Greek Wedding (2002),Tangled (2010),Love Actually (2003),Hitch (2005),When Harry Met Sally... (1989)
+564,Pitch Perfect (2012),Ferris Bueller's Day Off (1986),Juno (2007),Legally Blonde (2001),"Notebook, The (2004)"
+565,"Silence of the Lambs, The (1991)",Braveheart (1995),Jurassic Park (1993),Crimson Tide (1995),Terminator 2: Judgment Day (1991)
+566,"Silence of the Lambs, The (1991)",Terminator 2: Judgment Day (1991),Seven (a.k.a. Se7en) (1995),Ace Ventura: Pet Detective (1994),While You Were Sleeping (1995)
+567,Deadpool (2016),Star Wars: Episode VII - The Force Awakens (2015),"Dark Knight Rises, The (2012)","Matrix, The (1999)",Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+568,"Shawshank Redemption, The (1994)",Schindler's List (1993),"Godfather, The (1972)",Fight Club (1999),Braveheart (1995)
+569,Apollo 13 (1995),"Fugitive, The (1993)",Braveheart (1995),Terminator 2: Judgment Day (1991),"Shawshank Redemption, The (1994)"
+570,Jurassic Park (1993),"Silence of the Lambs, The (1991)",Pulp Fiction (1994),Batman (1989),"Usual Suspects, The (1995)"
+571,"Exorcist, The (1973)",Airplane! (1980),Rear Window (1954),Aliens (1986),Stand by Me (1986)
+572,Pulp Fiction (1994),American Beauty (1999),L.A. Confidential (1997),"Usual Suspects, The (1995)",Back to the Future (1985)
+573,"Bourne Identity, The (2002)",Kill Bill: Vol. 2 (2004),Ocean's Eleven (2001),V for Vendetta (2006),Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+574,Forrest Gump (1994),Jurassic Park (1993),"Fugitive, The (1993)",Dances with Wolves (1990),Terminator 2: Judgment Day (1991)
+575,Fight Club (1999),"Shawshank Redemption, The (1994)",American Beauty (1999),American History X (1998),"Usual Suspects, The (1995)"
+576,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)","Clockwork Orange, A (1971)",Rear Window (1954),L.A. Confidential (1997),Monty Python and the Holy Grail (1975)
+577,Terminator 2: Judgment Day (1991),Apocalypse Now (1979),"Matrix, The (1999)",Lawrence of Arabia (1962),"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)"
+578,"Dark Knight, The (2008)",Up (2009),Casablanca (1942),"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",My Fair Lady (1964)
+579,Aladdin (1992),"Silence of the Lambs, The (1991)",Apollo 13 (1995),Titanic (1997),"Fugitive, The (1993)"
+580,Catch Me If You Can (2002),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Speed (1994),"Hunt for Red October, The (1990)",Dark City (1998)
+581,"Dark Knight, The (2008)",Pulp Fiction (1994),Pirates of the Caribbean: The Curse of the Black Pearl (2003),"Incredibles, The (2004)","Silence of the Lambs, The (1991)"
+582,"Lord of the Rings: The Return of the King, The (2003)","Shawshank Redemption, The (1994)","Lord of the Rings: The Two Towers, The (2002)",Avatar (2009),Guardians of the Galaxy (2014)
+583,Pretty Woman (1990),"Shawshank Redemption, The (1994)","Lion King, The (1994)",Apollo 13 (1995),Mrs. Doubtfire (1993)
+584,"Shawshank Redemption, The (1994)",Schindler's List (1993),Legends of the Fall (1994),Jumanji (1995),Four Weddings and a Funeral (1994)
+585,"Usual Suspects, The (1995)","Shawshank Redemption, The (1994)","Godfather: Part II, The (1974)",One Flew Over the Cuckoo's Nest (1975),Trainspotting (1996)
+586,Forrest Gump (1994),Toy Story (1995),Shrek (2001),"Incredibles, The (2004)",Finding Nemo (2003)
+587,"Shawshank Redemption, The (1994)","Silence of the Lambs, The (1991)",Apollo 13 (1995),Star Wars: Episode IV - A New Hope (1977),Groundhog Day (1993)
+588,Speed (1994),Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Batman Forever (1995),Aladdin (1992),Star Trek: Generations (1994)
+589,Braveheart (1995),Jurassic Park (1993),"Fugitive, The (1993)","Usual Suspects, The (1995)",True Lies (1994)
+590,Full Metal Jacket (1987),Being John Malkovich (1999),Singin' in the Rain (1952),"Truman Show, The (1998)",Good Will Hunting (1997)
+591,Star Wars: Episode V - The Empire Strikes Back (1980),Saving Private Ryan (1998),Shrek (2001),Men in Black (a.k.a. MIB) (1997),American Beauty (1999)
+592,Outbreak (1995),Seven (a.k.a. Se7en) (1995),Babe (1995),Natural Born Killers (1994),Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+593,Pulp Fiction (1994),"Sixth Sense, The (1999)",Toy Story (1995),Saving Private Ryan (1998),Memento (2000)
+594,Forrest Gump (1994),Mrs. Doubtfire (1993),Toy Story (1995),Batman Forever (1995),Babe (1995)
+595,Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode VI - Return of the Jedi (1983),Schindler's List (1993),Pulp Fiction (1994),"Matrix, The (1999)"
+596,Saving Private Ryan (1998),"Shawshank Redemption, The (1994)",Harry Potter and the Chamber of Secrets (2002),"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Ratatouille (2007)
+597,Goodfellas (1990),Fargo (1996),Pulp Fiction (1994),Casablanca (1942),Being John Malkovich (1999)
+598,"Shawshank Redemption, The (1994)","Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Return of the King, The (2003)","Dark Knight, The (2008)",Forrest Gump (1994)
+599,One Flew Over the Cuckoo's Nest (1975),"Full Monty, The (1997)",Schindler's List (1993),Vertigo (1958),Sling Blade (1996)
+600,"Breakfast Club, The (1985)",Lost in Translation (2003),Shakespeare in Love (1998),Dances with Wolves (1990),Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+601,"Dark Knight, The (2008)",Forrest Gump (1994),Pulp Fiction (1994),Star Wars: Episode IV - A New Hope (1977),"Silence of the Lambs, The (1991)"
+602,Aladdin (1992),Beauty and the Beast (1991),Toy Story (1995),Twister (1996),Mr. Holland's Opus (1995)
+603,Stand by Me (1986),"Usual Suspects, The (1995)","Crying Game, The (1992)",Strangers on a Train (1951),Platoon (1986)
+604,"Fugitive, The (1993)",Dances with Wolves (1990),Apollo 13 (1995),"Shawshank Redemption, The (1994)",Crimson Tide (1995)
+605,Star Wars: Episode V - The Empire Strikes Back (1980),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),"Lion King, The (1994)",Finding Nemo (2003),Indiana Jones and the Last Crusade (1989)
+606,Citizen Kane (1941),Requiem for a Dream (2000),Fargo (1996),L.A. Confidential (1997),Chinatown (1974)
+607,Forrest Gump (1994),Aliens (1986),Mission: Impossible (1996),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Seven (a.k.a. Se7en) (1995)
+608,American Psycho (2000),"Departed, The (2006)",Star Wars: Episode III - Revenge of the Sith (2005),Lost in Translation (2003),Heat (1995)
+609,"Silence of the Lambs, The (1991)",True Lies (1994),Seven (a.k.a. Se7en) (1995),Die Hard: With a Vengeance (1995),Clear and Present Danger (1994)
+610,Good Will Hunting (1997),"Clockwork Orange, A (1971)",Run Lola Run (Lola rennt) (1998),"Social Network, The (2010)",One Flew Over the Cuckoo's Nest (1975)
